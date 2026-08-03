@@ -32,3 +32,6 @@ R02: Corpo Docente.
 R03: Registro dos alunos com aplicação do CRUD, Faixa de presença, Boletim.
 R04: Proteção de dados, Resposta Rápida do Sistema.
 R05: É importante para evitar os problemas funcionais que o software pode ter ou desenvolver, e também para a prevenção de Bugs.
+
+
+Feito por Gianne Clarice e Guilherme Valadão
