@@ -28,9 +28,13 @@ Identificação correta dos usuários do sistema.
 Elaboração adequada dos requisitos funcionais e não funcionais.
 
 R01: Controle de Boletim, grade horária, matricula.
+
 R02: Corpo Docente.
+
 R03: Registro dos alunos com aplicação do CRUD, Faixa de presença, Boletim.
+
 R04: Proteção de dados, Resposta Rápida do Sistema.
+
 R05: É importante para evitar os problemas funcionais que o software pode ter ou desenvolver, e também para a prevenção de Bugs.
 
 
