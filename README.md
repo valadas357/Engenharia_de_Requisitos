@@ -18,4 +18,4 @@ Este repositório tem como objetivo centralizar as atividades realizadas ao long
 
 ⭐ *Bons estudos e bom desenvolvimento!*
 
-*Trabalhos feitos e desenvolvidos por G.Valadão D.Lemes G.Clarice* 
+*Trabalhos feitos e desenvolvidos por G.Valadão, D.Lemes, G.Clarice, A.Lisarb, A.Beatriz, C.Calebe, E.Pereira* 
